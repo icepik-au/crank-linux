@@ -258,7 +258,7 @@
 #define RAND_CHARACTER 1
 #define RAND_NONE 2
 
-#define FLOOD_MAX_TRIGGERS 3
+#define FLOOD_MAX_TRIGGERS 10
 #define FLOOD_MAX_TIME 120
 
 #define DEFAULT_PAGE_UPDATE 5 //5 mins
