@@ -52,12 +52,12 @@
 #include "util.h"
 #include "hash.h"
 
-#define HEADER_TITLE "crank"
+#define HEADER_TITLE "Crank"
 #define HEADER_AUTHOR "bliP"
-#define HEADER_EMAIL "spawn[at]nisda.net"
-#define HEADER_COPYRIGHT "Copyright 2005-2007"
+#define HEADER_EMAIL "[spawn@nisda.net]"
+#define HEADER_COPYRIGHT "Copyright 2005-2015"
 #define HEADER_URL "http://nisda.net/"
-#define VERSION "1.545"
+#define VERSION "1.546-ice"
 #ifdef WIN32
 #define VER_SUFFIX "Win32"
 #endif
